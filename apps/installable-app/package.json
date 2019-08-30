@@ -1,6 +1,6 @@
 {
   "name": "installable-app",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Demo for installable app.",
   "scripts": {
     "dev": "gatsby develop",
