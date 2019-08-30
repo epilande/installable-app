@@ -1,6 +1,6 @@
 {
   "name": "installable-app",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Demo for installable app.",
   "scripts": {
     "dev": "gatsby develop",
@@ -10,7 +10,7 @@
   },
   "files": [
     "/public",
-    "../../README.md"
+    "README.md"
   ],
   "dependencies": {
     "gatsby": "^2.13.25",
