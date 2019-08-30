@@ -10,7 +10,7 @@
   },
   "files": [
     "/public",
-    "README.md"
+    "../../README.md"
   ],
   "dependencies": {
     "gatsby": "^2.13.25",
