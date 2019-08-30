@@ -7,7 +7,7 @@ const HomePage = () => {
   return (
     <Layout>
       <h1>
-        <pre>Hello, {slugify("Demo Site")}</pre>
+        <pre>Hello, {slugify("Installable App Demo")}</pre>
       </h1>
       <h3>Math utils:</h3>
       <p>
