@@ -5,8 +5,8 @@
     "packages/*"
   ],
   "scripts": {
-    "dev": "yarn workspace demo dev",
-    "build": "yarn workspace demo build",
+    "dev": "yarn workspace installable-app dev",
+    "build": "yarn workspace installable-app build",
     "format": "pretty-quick",
     "lint": "eslint --ext .tsx,.ts apps packages"
   },
