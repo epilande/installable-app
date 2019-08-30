@@ -1,0 +1,21 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Demo for installable app.",
+  "scripts": {
+    "dev": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^2.13.25",
+    "gatsby-plugin-typescript": "^2.1.2",
+    "math": "*",
+    "utils": "*",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "author": "Emmanuel Pilande",
+  "license": "MIT"
+}
