@@ -8,6 +8,10 @@
     "serve": "gatsby serve",
     "clean": "gatsby clean"
   },
+  "files": [
+    "/public",
+    "README.md"
+  ],
   "dependencies": {
     "gatsby": "^2.13.25",
     "gatsby-plugin-typescript": "^2.1.2",
